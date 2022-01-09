@@ -1,6 +1,9 @@
 # All the code has been written as a practice/learning code from https://www.youtube.com/watch?v=Dorf8i6lCuk
-# Getting Started with Create React App
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/28701654/148688150-c582e165-fd9d-4229-be83-51aabeac706e.png">
 
+
+# Getting Started with Create React App
+This explains the basic structure of a react app learn react components by creating a TODO app 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
