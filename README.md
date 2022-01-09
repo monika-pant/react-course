@@ -1,6 +1,8 @@
 # All the code has been written as a practice/learning code from https://www.youtube.com/watch?v=Dorf8i6lCuk
-# Getting Started with Create React App
 
+
+# Getting Started with Create React App
+This explains the basic structure of a react app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
