@@ -1,6 +1,6 @@
 # All the code has been written as a practice/learning code from:
- https://www.youtube.com/watch?v=Dorf8i6lCuk
- https://medium.com/codex/typescript-and-create-react-app-11bdebcbf763
+* https://www.youtube.com/watch?v=Dorf8i6lCuk
+* https://medium.com/codex/typescript-and-create-react-app-11bdebcbf763
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/28701654/148688150-c582e165-fd9d-4229-be83-51aabeac706e.png">
 
 
